@@ -1,6 +1,6 @@
-# Golf Data Analysis
+# Golf Analysis Continuation
 
-
+A continued data analysis of my golf game
 
 ## Instructions for Build and Use
 
@@ -23,12 +23,11 @@ To recreate the development environment, you need the following software and/or 
 
 You just need Tidyverse and DT
 
-
 ## Future Work
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] Add more golf data
-* [ ] Identify and remove problematic data (I used to record chips wrong)
-* [ ] Continue analysis, perhaps with statistical models
+* [x] Add more golf data
+* [x] Identify and remove problematic data (I used to record chips wrong)
+* [x] Continue analysis, perhaps with statistical models
 * [ ] Perhaps make a handicap calculator and tracker, to calculate my handicap over time. 

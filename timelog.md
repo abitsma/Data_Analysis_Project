@@ -2,7 +2,7 @@
 
 Name: Austin Bitsoi
 
-Sprint #: 3
+Sprint #: 4
 
 ## Instructions
 
@@ -24,19 +24,20 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 ## Time Log
 
-|Date      |Start Time|Category|Description                                 |Total Hours  |
+|Date      |Start Time|Category|Description                                 |Total Hours|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-| 6/6/26   |          | IM     |Finished project and recorded video         |     3       |
-| 6/5/26   |          | IM     |Database entry and continued work           |     2       |
-| 6/4/26   |          | IM     |Learning       ggplot                       |     2       |
-| 6/1/26   |          | IM     |Created database structure, and data entry  |     2       |
-| 5/26/26  |          | IM     |Learning R                                  |     1       |
-| 5/26/26  |          | MTG    |Class                                       |     1       |
-| 6/2/26   |          | MTG    |Class                                       |     1       |
-| 6/4/26   |          | MTG    |Class                                       |     1       |
-| 6/4/26   |          | TP     |Working on making database into JSON        |     2       |
-| 5/27/26  |          | TP     |Learning Django for project                 |     1       |
-| 5/29/26  |          | TP     |Github issues and further data cleaning     |     1       |
+|6/20/2026 |          |   IM   |Data collection, project work, submission   |     6       |
+|6/19/2026 |          |   IM   |Data collection, project work               |     2       |
+|6/17/2026 |          |   IM   |Data collection                             |     2       |
+|6/13/2026 |          |   IM   |Data collection                             |     2       |
+|6/12/2026 |          |   IM   |Data collection                             |     2       |
+|6/10/2026 |          |   IM   |Project setup, initial project work         |     1       |
+|6/16/2026 |          |   MTG  |Class time                                  |     1       |
+|6/11/2026 |          |   MTG  |Class time                                  |     1       |
+|6/9/2026  |          |   MTG  |Class time                                  |     1       |
+|6/17/2026 |          |   TP   |More Django, data, and pages                |     1       |
+|6/11/2026 |          |   TP   |Worked on Django, data, and pages           |     2       |
+|6/8/2026  |          |   TP   |Worked on function design for querying      |     1       |
 
 
 _Note: Add more rows as needed._
@@ -45,7 +46,9 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |           10             |
-|TP - Team Project              |           4              |
-|MTG - Class Meetings           |           3              | (I missed class 5/28/26 cause it was my bday lol)
-|**TOTAL**                      |           17             |
+|IM - Individual Module         |           15:00          |
+|TP - Team Project              |            4:00          |
+|MTG - Class Meetings           |            3:00          |
+|**TOTAL**                      |           22:00          |
+
+***NOTE: Only 3 hours of class time due to holiday***
